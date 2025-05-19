@@ -15,7 +15,7 @@ Department of Computer Science, Durham University, UK
 Graduate Teaching Assistant, 2020--2024  
 Department of Electrical and Electronic Engineering, The University of Manchester, UK
 
-Summer Intern, 2018
+Summer Intern, 2018  
 Corning Display Technologies, Taiwan
 
 Education Background
