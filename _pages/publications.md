@@ -8,58 +8,13 @@ redirect_from:
 ---
 
 {% include base_path %}
-You can download my CV [here]({{ "/files/cv.pdf" | relative_url }}). 
+You can also find my articles on [my Google Scholar profile]("https://scholar.google.com/citations?user=Vu5t0IQAAAAJ&hl=en").
 
-Education
+Journal Publications
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Y.-H. Su**, P. Bhowmick, and A. Lanzon, “A fixed-time formation-containment control scheme for multi-agent systems with motion planning: Applications to quadcopter UAVs”, *IEEE Transactions on Vehicular Technology*, vol.73, no.7, pp.9495--9507, July 2024. deo})
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Conference Publications
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
