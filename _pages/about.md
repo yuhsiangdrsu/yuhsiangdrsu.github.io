@@ -12,8 +12,8 @@ This is the front page of a website that is powered by the [Academic Pages templ
 
 Education Background
 ======
-PhD in Electrical and Electronic Engineering, 2020--2024
-MSc with Distinction in Advanced Control and Systems Engineering, 2018--2019
+PhD in Electrical and Electronic Engineering, 2020--2024  
+MSc with Distinction in Advanced Control and Systems Engineering, 2018--2019  
 Department of Electrical and Electronic Engineering, The University of Manchester, UK
 
 BSc in Mechanical Engineering, 2013--2017
