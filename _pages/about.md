@@ -9,7 +9,7 @@ redirect_from:
 
 Work Experience
 ------
-Research Associate, 2025--present
+Research Associate, 2025--present  
 Department of Computer Science, Durham University, UK
 
 Graduate Teaching Assistant, 2020--2024  
