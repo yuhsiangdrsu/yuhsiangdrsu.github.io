@@ -10,7 +10,7 @@
 main:
   - title: "Home"
     url: /about/
-    
+
   - title: "Publications"
     url: /publications/
 
