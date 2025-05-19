@@ -7,10 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-
-
 Work Experience
-------
 ------
 Research Associate, 2025--present
 Department of Computer Science, Durham University, UK
@@ -23,10 +20,13 @@ Corning Display Technologies, Taiwan
 
 Education Background
 ------
-------
 PhD in Electrical and Electronic Engineering, 2020--2024  
 MSc with Distinction in Advanced Control and Systems Engineering, 2018--2019  
 Department of Electrical and Electronic Engineering, The University of Manchester, UK
 
 BSc in Mechanical Engineering, 2013--2017
 Department of Mechanical Engineering National Chiao Tung University, Taiwan 
+
+Research Interests
+------
+My research interests include the theory and control design of multi-agent systems, particularly in formation control, formation-containment control, and negative imaginary theory, with applications in UAVs.
