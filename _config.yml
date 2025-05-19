@@ -25,9 +25,9 @@ author:
   avatar           : "profile.png"
   name             : "Yu-Hsiang Su"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "UK"
-  employer         :
+  bio              : "Research Associate"
+  location         : "Durham, UK"
+  employer         : "Durham University"
   uri              : # URL
   email            : "yuhsiang.drsu@gmail.com"
 
