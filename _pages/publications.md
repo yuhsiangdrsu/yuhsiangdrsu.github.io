@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 {% include base_path %}
-You can also find my articles on (<a href="https://scholar.google.com/citations?user=Vu5t0IQAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">my Google Scholar profile</a>).
+You can also find my articles on <a href="https://scholar.google.com/citations?user=Vu5t0IQAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">my Google Scholar profile</a>.
 
 Journal Publications
 ------
