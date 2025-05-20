@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+I am a Research Associate in the Department of Computer Science at Durham University, working under the supervision of Professor Farshad Arvin. I completed my Ph.D. in Electrical and Electronic Engineering at the University of Manchester in 2024, where I worked with Professor Alexander Lanzon on control design for multi-agent systems. My doctoral research focused on formation control, formation-containment control, and negative imaginary systems theory, with experimental validation using UAV platforms. Prior to that, I earned an M.Sc. with Distinction in Advanced Control and Systems Engineering from the University of Manchester in 2019, and a B.Sc. in Mechanical Engineering from National Chiao Tung University in Taiwan in 2017.
+
 Work Experience
 ------
 Research Associate, 2025 -- present  
