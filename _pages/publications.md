@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 {% include base_path %}
-You can also find my articles on (<a href="https://scholar.google.com/citations?user=Vu5t0IQAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">my Google Scholar profiler</a>).
+You can also find my articles on (<a href="https://scholar.google.com/citations?user=Vu5t0IQAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">my Google Scholar profile</a>).
 
 Journal Publications
 ------
@@ -25,4 +25,4 @@ Conference Publications
 * **Y.-H. Su**, P. Bhowmick, and A. Lanzon, “<a href="https://doi.org/10.1109/ICRA48891.2023.10160850" target="_blank" rel="noopener noreferrer">A negative imaginary theory-based time-varying group formation tracking scheme for multi-robot systems: Applications to quadcopters</a>,” in *Proceedings of the 40th IEEE International Conference on Robotics and Automation (ICRA)*, London, UK, May 2023, pp.1435--1441. (<a href="https://youtu.be/yC2_CKE-72A" target="_blank" rel="noopener noreferrer">Video</a>)
 * **Y.-H. Su**, P. Bhowmick, and A. Lanzon, “<a href="https://doi.org/10.23919/ECC57647.2023.10178371" target="_blank" rel="noopener noreferrer">Cooperative control of multi-agent negative imaginary systems with applications to UAVs, including hardware implementation results</a>,” in *Proceedings of the 21st European Control Conference (ECC)*, Bucharest, Romania, June 2023. (<a href="https://youtu.be/5wD7zETI670" target="_blank" rel="noopener noreferrer">Video</a>) 
 * **Y.-H. Su**, and A. Lanzon, “<a href="https://doi.org/10.1109/ICRA46639.2022.9812172" target="_blank" rel="noopener noreferrer">Formation-containment tracking and scaling for multiple quadcopters with an application to choke-point navigation</a>,” in *Proceedings of the 39th IEEE International Conference on Robotics and Automation (ICRA)*, Philadelphia, USA, May 2022, pp.4908--4914. (<a href="https://youtu.be/V_tbX0zHQ1E" target="_blank" rel="noopener noreferrer">Video</a>)
-* **Y.-H. Su**, D. F. Morales Aldana, and W. P. Heath, “<a href="https://doi.org/10.1016/j.ifacol.2020.12.534" target="_blank" rel="noopener noreferrer">System identification and control design for a tip tilt nanopositioning system,</a>,” in *Proceedings of the 21st IFAC World Congress*, Berlin, Germany, July 2020, pp.8577--8584.
+* **Y.-H. Su**, D. F. Morales Aldana, and W. P. Heath, “<a href="https://doi.org/10.1016/j.ifacol.2020.12.534" target="_blank" rel="noopener noreferrer">System identification and control design for a tip tilt nanopositioning system</a>,” in *Proceedings of the 21st IFAC World Congress*, Berlin, Germany, July 2020, pp.8577--8584.
